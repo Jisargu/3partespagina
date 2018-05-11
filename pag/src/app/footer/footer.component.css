@@ -1,0 +1,17 @@
+.borde_inferior{
+   border-bottom:1px solid gray;
+}
+.card .card-body a{
+    color:rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+}
+.card .card-body ul{
+    list-style-type: none;
+    padding: 0px;
+}
+.fondo_negro{
+    background-color: black;
+}
+.ancho_cartitas{
+    max-width: 9rem;
+}
