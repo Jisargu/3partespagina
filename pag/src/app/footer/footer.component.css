@@ -15,3 +15,34 @@
 .ancho_cartitas{
     max-width: 9rem;
 }
+.fondo_icono_mail{
+    background: url(../../assets/img/email-icon.png) left;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    
+}
+.fondo_boton_send{
+    background-color: #0054a5;
+    color: white;
+}
+.fondo_borde_email{
+    background-color: black;
+    border: none;
+    border-radius: 3px;
+}
+.colorlib{
+    color: gray;
+    font-size: 1.em;
+}
+.colorlib a{
+    text-decoration: none;
+    color: white;
+}
+.footer_copyright{
+    color: gray;
+    font-size: 1em;
+    
+}
+.borde_derecha{
+    border-right: 2px solid gray;
+}
