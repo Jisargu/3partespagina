@@ -1,0 +1,48 @@
+.borde_inferior{
+   border-bottom:1px solid gray;
+}
+.card .card-body a{
+    color:rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+}
+.card .card-body ul{
+    list-style-type: none;
+    padding: 0px;
+}
+.fondo_negro{
+    background-color: black;
+}
+.ancho_cartitas{
+    max-width: 9rem;
+}
+.fondo_icono_mail{
+    background: url(../../assets/img/email-icon.png) left;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    
+}
+.fondo_boton_send{
+    background-color: #0054a5;
+    color: white;
+}
+.fondo_borde_email{
+    background-color: black;
+    border: none;
+    border-radius: 3px;
+}
+.colorlib{
+    color: gray;
+    font-size: 1.em;
+}
+.colorlib a{
+    text-decoration: none;
+    color: white;
+}
+.footer_copyright{
+    color: gray;
+    font-size: 1em;
+    
+}
+.borde_derecha{
+    border-right: 2px solid gray;
+}

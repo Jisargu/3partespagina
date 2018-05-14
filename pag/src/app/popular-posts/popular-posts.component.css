@@ -1,0 +1,93 @@
+.invisible{
+    display: none;
+}
+.izquierda{
+height: 300px;
+
+}
+img{
+width: 63px;
+
+}
+.margenderecha{
+    margin: 1.3rem;
+    }
+    .margenEspecial{
+        margin: .2rem 1.3rem .2rem 1.3rem; 
+    }
+    .letrasPequeñas{
+    
+    font-size: .9em;
+    
+    }
+    .padIconos{
+        padding-left: 1.3rem;
+    }
+    .estiloMay{
+        font-weight: bold;
+        vertical-align:top;
+    top:-5px;
+           text-align: left;
+           font-style: unset;
+    font-size: 15px;
+    display: inline-flex;
+    color:black;
+    position: relative;
+    }
+    .iconos{
+        width: 1.4rem;
+        padding: .7rem;
+        margin: 0rem .5rem 0rem .5rem;
+    
+    }
+    .estiloMay:hover{
+    color:rgb(79, 185, 235);
+    
+    }
+    a:link{
+        text-decoration:none;
+    
+    }
+    .iconotwit{
+        background-image: url("../../assets/imgParte/logo-de-twiter.png");
+    }
+    
+    .iconofece{
+        background-image: url("../../assets/imgParte/logo-pequeno-de-facebook1.png");
+    }
+    .iconotwit:hover{
+        background-image: url("../../assets/imgParte/logo-de-twiter1.png");
+    }
+    .iconoinstagram{
+        background-image: url("../../assets/imgParte/instagram.png");
+    }
+    .iconopinter{
+        width: 1.5rem;
+        padding: .7rem;
+        margin: 0rem .5rem 0rem .5rem;
+        background-image: url("../../assets/imgParte/pinterest-circulo-del-logotipo.png");
+    }
+    .iconopinter:hover{
+        background-image: url("../../assets/imgParte/pinterest-circulo-del-logotipo1.png");
+    }
+    .iconoinstagram:hover{
+        background-image: url("../../assets/imgParte/instagram2.png");
+    }
+    .iconofece:hover{
+        
+    background-image: url("../../assets/imgParte/logo-pequeno-de-facebook.png");
+    }
+    
+    .margen{
+        margin: 0em;
+        padding: 0em;
+        border: 0em;
+    }
+    .titulos{
+    font-family: "metropolis-regular",sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.8;
+    padding-left: 2.2rem;
+    -webkit-font-smoothing: antialiased;
+    
+    }
